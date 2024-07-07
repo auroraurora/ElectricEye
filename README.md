@@ -4,7 +4,12 @@
   <img src="./screenshots/logo.svg" width="420" height="420">
 </p>
 
-ElectricEye is a multi-cloud, multi-SaaS Python CLI tool for Asset Management, Security Posture Management & Attack Surface Monitoring supporting 100s of services and evaluations to harden your CSP & SaaS environments with controls mapped to over 20 industry, regulatory, and best practice controls frameworks.
+ElectricEye is a multi-cloud, multi-SaaS Python CLI tool for asset management, security posture management, and attack surface monitoring. 
+ElectricEye:
+* Hardens your cloud service provider (CSP) & software-as-a-service (SaaS) environments
+* Supports hundreds of services including 
+* Provides evaluations with controls mapped to over 20 industry, regulatory, and best practice controls frameworks
+
 
 ![VulnScan](https://github.com/jonrau1/ElectricEye/actions/workflows/sbom-vulns.yml/badge.svg)  ![CodeQL](https://github.com/jonrau1/ElectricEye/actions/workflows/codeql-analysis.yml/badge.svg) ![EcrBuild](https://github.com/jonrau1/ElectricEye/actions/workflows/push-ecr-public.yml/badge.svg) ![OcrBuild](https://github.com/jonrau1/ElectricEye/actions/workflows/push-ocr-public.yml/badge.svg) ![DockerHubBuild](https://github.com/jonrau1/ElectricEye/actions/workflows/push-docker-hub.yml/badge.svg)
 
